@@ -2,6 +2,25 @@
 
 # 🚇 지하철 노선도 - 레벨2 종합세트 & 테스트
 
+## 기술 스택
+
+언어
+- typescript
+
+SPA 프레임웍
+- react
+
+CSS in JS
+- styled-components
+
+전역상태관리
+- redux toolkit
+- react-query
+
+테스트 툴
+- react-hooks-testing-library
+- storybook
+
 # 미션 목표
 
 - 레벨 2에서 학습한 컴포넌트 기반 개발, 상태 관리 방법에 대한 내용을 전반적으로 복습하며 적용하는 연습을 합니다.
