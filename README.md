@@ -19,6 +19,7 @@ CSS in JS
 
 테스트 툴
 - react-hooks-testing-library
+- msw
 - storybook
 
 # 미션 목표
